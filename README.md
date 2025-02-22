@@ -16,3 +16,8 @@ El Amigo Secreto es un juego en el que un grupo de personas se sortean entre sí
 <h1 align=center><em>Instalación</em>🛠</h1> 
 
 Para poder usar este sistema, simplemente descarga o clona el repositorio en tu máquina local.
+````bash
+git clone https://github.com/ppaedo/juego-amigo-secreto.git
+cd juego-amigo-secreto
+
+
